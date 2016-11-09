@@ -27,8 +27,10 @@ A different style of callbacks experiment written for an answer on Stack Overflo
 * [Why does node prefer error-first callback?](https://stackoverflow.com/questions/40511513/why-does-node-prefer-error-first-callback/40512067#40512067)
 
 This is a useage example of the `errc` module.
-See [errc documentation](https://github.com/rsp/node-errc#readme) for more info. Examples:
+See [errc documentation](https://github.com/rsp/node-errc#readme) for more info.
 
+Examples
+--------
 * [example1.js](example1.js)
 * [example2.js](example2.js)
 * [example3.js](example3.js)
