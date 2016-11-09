@@ -1,4 +1,4 @@
-# errc
+# errc example
 
 [github-url]: https://github.com/rsp/node-errc-example
 [readme-url]: https://github.com/rsp/node-errc-example#readme
